@@ -1,0 +1,3 @@
+www.veja.com/142.251.129.174
+186.192.81.5/34.98.87.6
+www.bing.com/localhost
